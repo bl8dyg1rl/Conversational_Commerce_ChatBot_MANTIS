@@ -8,6 +8,8 @@ En lugar de navegar manualmente por categorías o buscar productos específicos,
 
 El proyecto utiliza **Telegram como interfaz conversacional**, **FastAPI como backend**, **PostgreSQL como fuente de verdad del catálogo e inventario** y un **LLM local ejecutado mediante Ollama** para la interpretación de lenguaje natural.
 
+<img src="/assets/Imagen_Telegram.jpeg" alt="Inicio" width="50%">
+
 ---
 
 ## 🎯 Objetivo
