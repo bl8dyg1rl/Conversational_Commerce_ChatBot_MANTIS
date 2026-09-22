@@ -10,6 +10,8 @@ El proyecto utiliza **Telegram como interfaz conversacional**, **FastAPI como ba
 
 <img src="/assets/Imagen_Telegram.jpeg" alt="Inicio" width="50%">
 
+<img src="/assets/MANTIS_diagram.jpeg" alt="Inicio" width="50%">
+
 ---
 
 ## 🎯 Objetivo
